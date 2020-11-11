@@ -24,7 +24,7 @@ linters:
     - nakedret
     - prealloc
     - scopelint
-  fast: false
+  fast: false  
 
 linters-settings:
   errcheck:
